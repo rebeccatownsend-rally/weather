@@ -17,3 +17,7 @@ to run the app on an Android simulator.
 ### `yarn test`
 
 to run unit tests.
+
+## Project Files
+
+Project files are located in the **scripts** directory
